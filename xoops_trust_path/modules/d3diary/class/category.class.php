@@ -12,6 +12,7 @@ class D3diaryCategory
 	var $blogurl =0;
 	var $rss = '';
 	var $openarea = 0;
+	var showoption = 0;
 	var $dohtml = 0;
 	var $vgids = '';
 	var $vpids = '';
